@@ -1,0 +1,41 @@
+body {
+  font-family: helvetica;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+.hero {
+  background-image: url("../images/flatiron.png");
+}
+
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+.hero,
+.footer {
+  color: white;
+}
