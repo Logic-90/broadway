@@ -23,7 +23,6 @@ p {
 
 a {
   font-size: 18px;
-  color: white;
 }
 
 .hero {
@@ -36,6 +35,7 @@ a {
   text-align: left;
 }
 
+a,
 .hero,
 .footer {
   color: white;
